@@ -95,26 +95,32 @@ Ich muss ein Programm programmieren das es ermöglicht eine Zahl zwischen 1 und 
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |         tatsächliche Zeit 
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |9.9.2022    ich   | ich informiere|   45            |
+| 1.A  |9.9.2022    ich   | ich informiere|   45                     30 
                             mich im Internet 
                             
-| 1.b | 9.9.2022|   ich    Ich Programmiere ¦  45             |
-                              es auff c#
+| 1.b | 9.9.2022|   ich    Ich Programmiere ¦  45                        
+                              eine Zahl zwischen                     45
+                              1 und 100
                               
-  2    9.9.2022   ich      Programmiere einen   45
-                           Feld um Zahlen einzugeben
+  2    9.9.2022   ich      Programmiere ob        45                  30
+                           die Zahl richtig oder 
+                           Falsch ist . 
                            
- 2b    9.9.2022     ich     Programmiere das richtig    45
+ 2b    9.9.2022     ich     Programmiere das richtig 30              20 
                            oder falsch angezeigt wird
  
- 3    9.9.2022     ich       Programmiere die Antwort 
-                             auf 
+ 3    9.9.2022     ich     weiterspielen y/ no  60                  45        
  
  
- 
- 
+ 4    9.9.2022    ich      ist die Zahl grösser  60                 25 
+                           oder kleiner
+                          
+                            
+ 5   9.9.2022    ich    Fehlermeldung wenn keine                   20
+                         ziffer eingegeben ist 
+                          erstellen.
  
  
  
