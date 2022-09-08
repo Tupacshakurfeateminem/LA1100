@@ -18,37 +18,11 @@ Ich muss ein Programm programmieren das es ermöglicht eine Zahl zwischen 1 und 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                  |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |      muss        |Funkt-| Als ein Casinobetreiber möchte ich das 
-                           ionale       der Computer eine geheim Zahl zwischen 
-                            Anfor-     1-100 speichert damit ich eine Jackpotzahl habe
-                           derung
-  
-  2         muss          Funkti-      Als ein Cassinobetreiber möchte ich das der Benutzer
-                          onal           Zahlen eraten kann,damit Er auch gewinn oder verlust machen 
-                           Anfor-          kann
-                           derung
-                           
-   3          muss        Funktionale      Als ein Casinobetreiber möchte ich das der Computer 
-                           Anforderung     nach jeder geratener Zahl einen Hinweiss gibt, damit
-                                           er mehr einsetzt 
-                                           a.	Die geratene Zahl ist niedriger als die Geheimzahl.
-                                           b.	Die geratene Zahl ist grösser als die Geheimzahl.
-                                           c.	Die Geheimzahl wurde erraten
-                                           
-   4         muss         Funktionale       als ein Casinobetreiber möchte ich das sobald die Geheim 
-                         Anforderung        Zahl erraten wurde Sollten die Versuche die die Person benötigt 
-                                           hat angezeigt werden, damit ich denn Jackpot minimieren kann.
-                                           
-                                           
- 5          muss           Qualitäts-        Als ein Casinobetreiber möchte ich das das Programm mit Fehleingaben
-                          anforderungen     umgehen oder sie vermeiden kann, damit ES keine Störungen gibt.
-                           
-           muss            Funktionale       
-                           Anforderungen                
-                                           
-                                           
-                                           
+| 1    |      muss       |  F   | Als ein Casinobetreiber möchte ich das der Computer eine geheim Zahl zwischen  1-100 speichert damit ich eine Jackpotzahl habe |
+| 2    |      muss       |  F   |    Als ein Casinobetreiber möchte ich das der Benutzer Zahlen eraten kann,damit Er auch gewinn oder verlust machen kann|             | 3    |      muss       |  F   |    Als ein Casinobetreiber möchte ich das der Computer  nach jeder geratener Zahl einen Hinweis gibt, damit er mehr einsetzt  a.	Die                                 |geratene Zahl ist niedriger als die Geheimzahl. b.	Die geratene Zahl ist grösser als die Geheimzahl. c.	Die Geheimzahl wurde erraten
+| 4    |      muss       |  F   |  als ein Casinobetreiber möchte ich das sobald die GeheiZahl erraten wurde Sollten die Versuche die die Person benötigt hat angezeigt                                                 werden, damit ich denn Jackpot minimieren kann.|
+| 5    |      muss       |  Q  |Als ein Casinobetreiber möchte ich das das Programm mit Fehleingaben    umgehen oder sie vermeiden kann, damit ES keine Störungen gibt| 
+
                                            
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -56,35 +30,13 @@ Ich muss ein Programm programmieren das es ermöglicht eine Zahl zwischen 1 und 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |Testen ob eime|                                 geheim Zahl wird gezeigt             
-| ...  |  geheime Zah                        10
-          zwischen 1-100
-          
-  1,2   Zahl raten                            8                    falsch      
-  
-  1,3   Für die geratene                      7        die geheim Zahl ist grösser
-         Zahl Feedback
-         a)die geheim Zahl ist niedriger
-         b)die geheime Zahl ist grösser
-         c) die geheime Zahl ist richtig
-          
-          
-  1,4 sobald erraten                         10             richtig Versuche : 3
-     Anzahl versuche 
-     anzeigen       
-          
-          
-  1,5  sobald eine                          zehn               0 
-       Fehleingabe 
-       eingegeben 
-       wird damit 
-       umgehen  
-          
-  1,6 sobald der          
-       Spieler geraten                  y                geben sie eine Zahl 
-       ein hat fragen ob                                  zwischen 1-100 ein.
-       er weiter-
-       spielen will.
+| 1.1  |Testen ob es eime geheime Zahl zwischen 1 - 100 gibt| 10 |  richtige antwort |  
+|  1,2 | Zahl raten |  8  | das ist nicht die korrekte Zahl |
+| 1,3 |  Für die geratene Zahl Feedbacka)die geheim Zahl ist niedrigerb)die geheime Zahl ist grösserc) die geheime Zahl ist richtig|                      7     |   die geheim Zahl ist grösser|
+| 1,4 sobald erraten Anzahl versuche anzeigen        |               10      |       richtig Versuche : 3|     
+|1,5 | sobald eine Fehleingabe eingegeben  wird damit umgehen |                         zehn     |          0 |
+|1,6 |sobald der Spieler geraten hat fragen ob er weiter spielen will |   y    |    geben Sie eine Zahl zwischen 1 -100 ein|
+
           
           
           
@@ -101,36 +53,15 @@ Ich muss ein Programm programmieren das es ermöglicht eine Zahl zwischen 1 und 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |         tatsächliche Zeit 
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |1.9.2022    ich   | ich informiere|           45              30 
-                            mich im Internet 
-                            
-| 1.b | 1.9.2022|   ich    Ich Programmiere ¦         45                        
-                              eine Zahl zwischen                      45
-                              1 und 100
-                              
-  2    1.9.2022   ich      Programmiere ob             45             30
-                           die Zahl richtig oder 
-                           Falsch ist . 
-                           
- 2b    1.9.2022     ich     Programmiere das richtig   30             20 
-                           oder falsch angezeigt wird
- 
- 3    1.9.2022     ich     weiterspielen y/ no         60             45        
- 
- 
- 4    1.9.2022    ich      ist die Zahl grösser       60              25 
-                           oder kleiner
-                          
-                            
- 5   1.9.2022    ich    Fehlermeldung wenn keine     45                  20
-                         ziffer eingegeben ist 
-                          erstellen.
- 
- 
- 6  8.9.2022   ich      weiterspielen yes or no  
-                        programmieren bei yes         45  
-                        Forgang wiederholen 
-                        bei no Spiel enden.
+| 1.A  |1.9.2022    ich   | ich informiere mich im Internet | 45 |30  |
+| 1.b | 1.9.2022|   ich   | Ich Programmiere eine Zahl zwischen 1-100|45 |                      
+| 2   | 1.9.2022 |  ich      Programmiere ob die Zahl richtig oder Falsch ist |45  |30|                        
+|2b   | 1.9.2022 |    ich |    Programmiere das richtig oder falsch angezeigt wird |30  |20 |
+| 3   | 1.9.2022 |     ich |    weiterspielen y/ no    |     60      |      45      |  
+ |4   | 1.9.2022 |   ich   |   ist die Zahl grösser oder kleiner    |   60       |       25 |     
+|5  | 1.9.2022   | ich    |Fehlermeldung wenn keine Ziffer eingegen ist erstellen |    45  |                20|
+| 6 | 8.9.2022  | ich     | weiterspielen yes or no programmiere bei yes Forgang wiederholen bei no spiel beenden | 45|?| 
+
  
  
  
@@ -163,21 +94,21 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A)   1.9.2022  ich          45               30
+| 1.A) |  1.9.2022 | ich  |        45     |          30|
 
-  1.b)   1.9.2022  ich          45               45
+| 1.b) |  1.9.2022 |  ich  |        45    |           45|
   
-  2.a)   1.9.2022  ich          45               30 
+| 2.a) |  1.9.2022 | ich   |       45 |              30 |
   
-  2.b)   1.9.2022  ich          30               20
+| 2.b)  | 1.9.2022 | ich     |     30   |            20|
   
-  3)     1.9.2022  ich          60               45
+| 3)   |  1.9.2022 | ich    |      60     |          45|
   
-  4)     1.9.2022  ich          60               25 
+| 4)   |  1.9.2022 | ich   |       60    |           25 |
   
-  5)     1.9.2022  ich          45               20
+|  5)  |   1.9.2022 | ich    |      45  |             20|
 
-  6)     8.9.2022  ich          45
+ | 6)  |   8.9.2022 | ich    |      45|?|
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
