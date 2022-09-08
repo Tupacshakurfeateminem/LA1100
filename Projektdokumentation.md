@@ -95,20 +95,13 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A) |  1.9.2022 | ich  |        45     |          30|
-
 | 1.b) |  1.9.2022 |  ich  |        45    |           45|
-  
 | 2.a) |  1.9.2022 | ich   |       45 |              30 |
-  
-| 2.b)  | 1.9.2022 | ich     |     30   |            20|
-  
+| 2.b)  | 1.9.2022 | ich     |     30   |            20| 
 | 3)   |  1.9.2022 | ich    |      60     |          45|
-  
 | 4)   |  1.9.2022 | ich   |       60    |           25 |
-  
 |  5)  |   1.9.2022 | ich    |      45  |             20|
-
- | 6)  |   8.9.2022 | ich    |      45|?|
+ | 6)  |   8.9.2022 | ich    |      45|100|
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
