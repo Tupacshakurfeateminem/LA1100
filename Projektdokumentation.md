@@ -62,7 +62,7 @@ Ich muss ein Programm programmieren das es ermöglicht eine Zahl zwischen 1 und 
 |5  | 1.9.2022   | ich    |Fehlermeldung wenn keine Ziffer eingegen ist erstellen |    45  |                20|
 | 6 | 8.9.2022  | ich     | weiterspielen yes or no programmiere bei yes Forgang wiederholen bei no spiel beenden | 45|100| 
 |7| 8.9.2022| ich  |github bearbeitet| 45 |50|
- 
+ |8| 15.09.2022|ich| überarbeitung| 45 | 150|
  
  
  
