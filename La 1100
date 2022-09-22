@@ -10,14 +10,14 @@ Ich kann eine random number generieren.
 
 ## Beschreibung
 
-```Csharp
+Code 
 Console.WriteLine("Geben sie eine Zahl zwischen 1-100 ein");
             Random rnd = new Random();
             int rndNum = rnd.Next(1, 100);
  
+Bild
 
-     
- 
+https://bbbaden-my.sharepoint.com/:i:/g/personal/j_broder_inf22_stud_bbbaden_ch/EaWdo1L225pEnMr_gnLlGkABbkxjK0A_LZSTiusFpgqctA 
 
 
 
