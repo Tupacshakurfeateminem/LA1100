@@ -121,7 +121,7 @@ Total:
 | 6 | 22.09.2022 | Funktioniert | John Broder|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-Fazit : Das programm Fuunktioniert einwand frei .
+Fazit : Das programm Funktioniert einwand frei .
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
