@@ -16,9 +16,7 @@ Console.WriteLine("Geben sie eine Zahl zwischen 1-100 ein");
             int rndNum = rnd.Next(1, 100);
  
 Bild
-
 file:///C:/Users/41768/OneDrive%20-%20Alte%20Kantonsschule%20Aarau/Dokumente/csharp%20random%20nummber%203.png
-
 ## Verifikation
 Der oben gezeigte Code zeigt wie ich eine random Zahl zwischen 1 und 100 gecoded habe.
 Das unten verwendete Bild zeigt wie der Codefetzen Funktioniert.
