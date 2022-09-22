@@ -112,8 +112,12 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.b |  22.09.2022     | Funktioniert         |   John Broder     |
+| 2.a  | 22.09.2022      |Funktioniert           |   John Broder     |
+|3  | 22.09.2022 | Funktioniert | John Broder|
+|4| 22.09.2022| Funktioniert|John Broder|
+| 5 | 22.09.2022 | Funktioniert| John Broder|
+| 6 | 22.09.2022 | Funktioniert | John Broder|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
