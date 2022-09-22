@@ -4,9 +4,11 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 24.08.2022      | 0.0.1   | Github erstellt  |
+| 31.08.2022      | 0.2     |   User storys erstellt und programmiert                                                      |
+|7.09.2022 | 0.3 | User storys programmiert |
+|14.09.2022 |0.4 |User storys programmiert und GitHub bearbeitet
+|22.09.2022       | 1.0.0   |  Alles überarbeiten beenden|                                                            |
 
 ## 1 Informieren
 
