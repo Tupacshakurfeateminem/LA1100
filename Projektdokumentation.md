@@ -55,7 +55,7 @@ Ich muss ein Programm programmieren das es ermöglicht eine Zahl zwischen 1 und 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |         tatsächliche Zeit |
 
-| 1.A  |1.9.2022    ich   | ich informiere mich im Internet | 45 |30  |
+| 1.A  |1.9.2022  |  ich   | ich informiere mich im Internet | 45 |30  |
 | 1.b | 1.9.2022|   ich   | Ich Programmiere eine Zahl zwischen 1-100|45 | 45|                     
 | 2   | 1.9.2022 |  ich    |  Programmiere ob die Zahl richtig oder Falsch ist |45  |30|                        
 |2b   | 1.9.2022 |    ich |    Programmiere das richtig oder falsch angezeigt wird |30  |20 |
