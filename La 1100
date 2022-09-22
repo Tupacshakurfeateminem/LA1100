@@ -1,0 +1,37 @@
+# Lern-Bericht
+john broder
+
+## Einleitung
+Ich habe im letzten Monat im Lernatelier ein Projekt mit C# gemacht.
+
+## Was habe ich gelernt?
+
+Ich kann eine random number generieren.
+
+## Beschreibung
+
+```Csharp
+Console.WriteLine("Geben sie eine Zahl zwischen 1-100 ein");
+            Random rnd = new Random();
+            int rndNum = rnd.Next(1, 100);
+ 
+
+     
+ 
+
+
+
+## Verifikation
+Der oben gezeigte Code zeigt wie ich eine random Zahl zwischen 1 und 100 gecoded habe.
+Das unten verwendete Bild zeigt wie der Codefetzen Funktioniert.
+
+# Reflektion zum Arbeitsprozess
+
+An manchen Tagen hatte ich sehr viel vortschritt gemacht, viel mehr als erwartet und wurde fast miit allen Planungen fertig.
+
+
+Ich hatte zwei mal ein bisschen zu wenig schlaf, also war sehr müde. Das hat auch meine Konzentration geschwächt.
+Ich konnte mich auch manchmal nach 3,4 Stunden richtig konzentrieren .
+
+
+VBV: Ich muss schauen das ich früher schlafen gehen kann und das ich meine Pausen besser einteilen.
